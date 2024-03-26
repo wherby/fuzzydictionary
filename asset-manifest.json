@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.1e54a831.css",
-    "main.js": "/static/js/main.db4fb504.js",
-    "static/js/488.fcbb8717.chunk.js": "/static/js/488.fcbb8717.chunk.js",
-    "index.html": "/index.html",
-    "main.1e54a831.css.map": "/static/css/main.1e54a831.css.map",
-    "main.db4fb504.js.map": "/static/js/main.db4fb504.js.map",
-    "488.fcbb8717.chunk.js.map": "/static/js/488.fcbb8717.chunk.js.map"
+    "main.css": "/fuzzydictionary/static/css/main.1e54a831.css",
+    "main.js": "/fuzzydictionary/static/js/main.33c7b19e.js",
+    "static/js/488.fcbb8717.chunk.js": "/fuzzydictionary/static/js/488.fcbb8717.chunk.js",
+    "index.html": "/fuzzydictionary/index.html",
+    "main.1e54a831.css.map": "/fuzzydictionary/static/css/main.1e54a831.css.map",
+    "main.33c7b19e.js.map": "/fuzzydictionary/static/js/main.33c7b19e.js.map",
+    "488.fcbb8717.chunk.js.map": "/fuzzydictionary/static/js/488.fcbb8717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e54a831.css",
-    "static/js/main.db4fb504.js"
+    "static/js/main.33c7b19e.js"
   ]
 }
